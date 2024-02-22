@@ -1,0 +1,6 @@
+@AgentCC_Gateway_HostAddress = http://localhost:5272
+
+GET {{AgentCC_Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
